@@ -1,1 +1,27 @@
-hello word
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch('head.php')
+                .then(response => response.text())
+                .then(data => {
+                    const head = document.querySelector('head');
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(data, 'text/html');
+                    const metaTags = doc.querySelectorAll('meta');
+                    metaTags.forEach(tag => head.appendChild(tag));
+                    // Jika ada tag title, append ke head
+                    const titleTag = doc.querySelector('title');
+                    if (titleTag) head.appendChild(titleTag);
+                })
+                .catch(error => console.error('Error loading head.php:', error));
+        });
+    </script>
+    <title>Default Title</title> <!-- Ini akan diubah oleh JavaScript jika ada title di head.php -->
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is the rest of your HTML content.</p>
+</body>
+</html>
