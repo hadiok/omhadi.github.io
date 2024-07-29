@@ -1,0 +1,25 @@
+{
+	"meta_deskripsi": "Tentang Omhadi adalah semua hal yang berkaitan dengan om hadi",
+	"meta_keyword": "om hadi, tentang, tentang om hadi",
+	"title": "Tentang",
+	"image": "omhadi.png",
+	"label": [
+		"Lain Lain"
+	],
+	"artikel": [
+		"<p>Selamat Datang di om hadi.\nIni adalah website baru dari om hadi. dalam website barunya om hadi, banyak tampilan yang berubah, om hadi memprioritaskan untuk tampilan mobile karena pengguna internet sekarang rata rata browsing artikel nya menggunakan hp.</p>",
+		"<h2>Keunggulan Website Om Hadi Yang Baru</h2>\n<h3>Tampilan Keren</h3>\n<p>Tampilan dari Website Om Hadi lebih keren dibandingkan yang lama.</p>\n<h3>Mobile Friendly</h3>\n<p>Tampilan yang mobile friendly adalah tampilan yang pas di layar hp jadi website om hadi lebih nyaman digunakan untuk membaca artikel.</p>\n",
+		"<h2>Kenapa Ganti Website Baru?</h2>\n<p>Om Hadi melihat tampilan website yang lama tidak enak atau tidak nyaman di mata apabila digunakan untuk membaca artikel dengan durasi yang lama, oleh karena itu om hadi mengganti dengan website yang baru.</p>\n\n<p>Selain itu , dari segi server om hadi sekarang sudah memiliki server sendiri untuk website om hadi ini. Jadi itulah alasan om hadi mengganti atau merubah tampilan website om hadi.</p>\n",
+		"<h2>Apakah dengan Tampilan Baru Ini Nyaman Digunakan?</h2>\n<p>Menurut Om Hadi sangat nyaman, karena pemilihan warna website yaitu hitam, tidak akan mencolok menyilaukan mata, sehingga bagi para pembaca tidak akan bosan bila berlama lama membaca artikel dari om hadi</p>.\n\n<h2>Kesimpulan</h2>\n<p>Om Hadi Sekarang website nya ganti, dari yang tampilannya mencolok, sekarang menjadi lebih adem enak dipandang.\nalasannya karena website lama, tampilannya sangat mencolok dan menyilaukan mata.</p>\n"
+	],
+	"faq": [
+		{
+			"tanya": "Apa Itu Om Hadi?",
+			"jawab": "Om Hadi Adalah web basis mobile untuk menyajikan artikel menarik dan pastinya bermanfaat."
+		},
+		{
+			"tanya": "Dimana Alamat Omhadi",
+			"jawab": "Penggaron Lor Rt2 Rw2 genuk semarang."
+		}
+	]
+}
